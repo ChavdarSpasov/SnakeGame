@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(238, 247, 225);
+    display: flex;
+}
+
+canvas{
+    position: absolute;
+    top: 18vh;
+    left: 35vw;
+}
